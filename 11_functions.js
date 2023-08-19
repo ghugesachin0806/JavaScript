@@ -74,6 +74,12 @@ console.log(subtract(89, 9));
 let temp1 = subtract(90, 8);
 console.log(temp1);
 
+const func1 = () => {
+  console.log("Hello World");
+};
+
+func1();
+
 // Hello JS
 // 81
 // 36
@@ -85,3 +91,4 @@ console.log(temp1);
 // 90
 // 80
 // 82
+// Hello World
